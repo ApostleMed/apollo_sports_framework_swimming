@@ -1,0 +1,28 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Preamble:
+
+The Apollo Sports Framework Swimming (hereinafter referred to as "the Program") is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see http://www.gnu.org/licenses/.
+
+Terms and Conditions:
+
+1. Source Code: Any distribution of the Program or derivative works must include the complete corresponding source code, in the preferred form for making modifications, unless the Program is in the public domain.
+
+2. Modifications: You may modify the Program and distribute such modifications under the terms of this license. Any modified files must include prominent notices stating that you changed the files and the date of any change.
+
+3. Distribution: You may distribute the Program or any modified versions, provided that you also include this license, the copyright notices, and a notice stating that there is no warranty.
+
+4. Usage: This license grants you the right to use, copy, distribute, and modify the Program. You are not required to grant others these rights.
+
+5. Copyleft: Any distribution of the Program or derivative works must be under this license, and any work that includes, modifies, or is derived from the Program must also be under this license.
+
+6. Patents: If you initiate patent litigation against any entity over patents that you think may apply to the Program, your rights to the Program and this license end automatically.
+
+7. No Trademark Rights: This license does not grant you rights to use any trademarks or trade names associated with the Program.
+
+For more details, see the full text of the GNU General Public License: http://www.gnu.org/licenses/gpl.html
